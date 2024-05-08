@@ -1,0 +1,39 @@
+@media all and (orientation:landscape)
+{
+    body{background-color: rgb(174, 213, 238);}
+}
+    
+ul{
+    list-style-type: none;
+    margin-left: 0;
+}
+li{
+    margin-left: -40px; 
+    margin-top: -15px;
+}
+.titel{
+    margin-left: 550px ;
+    margin-top: -5px;
+    
+}
+.Meny{
+    margin-top:-60px;
+}
+.BildMo{
+    
+    animation-name: Molly; 
+    animation-duration: 5s;
+}
+
+@keyframes Molly{
+    10%{opacity: 10% ;}
+    20%{opacity: 20% ;}
+    30%{opacity: 30% ;}
+    40%{opacity: 40% ;}
+    50%{opacity: 50% ;}
+
+}
+.mollysfakta{
+    margin-left: 310px;
+    margin-top: -550px;
+}

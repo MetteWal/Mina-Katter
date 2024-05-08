@@ -1,0 +1,42 @@
+@media all and (orientation:landscape)
+{body{background-color:  rgb(174, 213, 238);}
+}
+.Meny{
+    margin-top:-50px;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0px;
+    margin-top: 50px; 
+}
+
+li{
+    margin-left: -40px;
+    margin-top: -15px;
+}
+
+.Rubrik{
+    margin-left: 550px ;
+    margin-top: -5% ;
+}
+
+.BildMi{
+    
+    animation-name: Mimmi; 
+    animation-duration: 5s;
+
+}
+
+@keyframes Mimmi{
+    10%{opacity: 10% ;}
+    20%{opacity: 20% ;}
+    30%{opacity: 30%;}
+    40%{opacity: 40%;}
+    50%{opacity: 50%;}
+
+}
+
+.Mimmisfakta{
+    margin-left: 310px;
+    margin-top: -550px;
+}

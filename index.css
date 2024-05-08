@@ -1,0 +1,68 @@
+ @media all and (orientation:landscape)
+ {
+    body{background-color: rgb(200, 218, 229);}
+ }
+    
+.titel{ 
+    margin-left: 33%;
+}
+
+.Meny{
+    margin-top: -30px;
+
+}
+h1{
+    font-size: 500%;
+    
+}
+ul{
+    list-style-type: none;
+    margin-left: 0;
+}
+li{
+    margin-left: -40px; 
+    margin-top: -15px;
+}
+
+.Kissen{
+    margin-left: 150px;
+}
+
+.Molly{
+    margin-left: 150px;
+}
+.Mimmi{
+    margin-left:150px;
+}
+
+h3{
+    margin-top: -150px;
+}
+
+.Namn1{
+    -webkit-text-fill-color : black;
+    margin-left: 150px;
+    font-size: 200%;
+}
+
+.Namn2{
+   -webkit-text-fill-color : black;
+   margin-left: 500px;
+   margin-top: -40px;
+   font-size: 200%;
+}
+
+.Namn3{
+    -webkit-text-fill-color : black;
+    margin-left: 850px;
+    margin-top: -40px;
+    font-size: 200%;
+ }
+
+ .Info-titel{
+    font-size:300%;
+    margin-left: 450px;
+ }
+    
+
+ 
